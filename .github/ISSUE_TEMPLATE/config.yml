@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security problem privately
+    url: https://github.com/cortexa-consulting/aisle/security/advisories/new
+    about: For anything that could expose client data or make Claude follow a planted instruction. Please don't use a public issue.
+  - name: Cortexa Consulting
+    url: https://www.cortexa-consulting.ai/contact
+    about: Questions about AISLE, training, or setting it up for your team.

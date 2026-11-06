@@ -1,0 +1,73 @@
+name: A skill did something wrong
+description: A skill gave a wrong result, skipped a step, or didn't start when it should have.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time. **Please don't paste real client data, names, numbers or email text.** A made-up example that shows the same behavior is all we need. Security problems go through the Security tab instead.
+  - type: dropdown
+    id: skill
+    attributes:
+      label: Which skill?
+      options:
+        - inbox-triage
+        - sell-through-recap
+        - excel-grid
+        - client-deck
+        - sales-dashboard
+        - store-visit-report
+        - redaction-partner
+        - new-account
+        - retailer-meeting-prep
+        - weekly-client-update
+        - wrap-up
+        - new-workflow
+        - Not sure, or none started
+    validations:
+      required: true
+  - type: dropdown
+    id: model
+    attributes:
+      label: Which Claude model?
+      options:
+        - Opus
+        - Sonnet
+        - Haiku
+        - Not sure
+    validations:
+      required: true
+  - type: dropdown
+    id: where
+    attributes:
+      label: Where were you using it?
+      options:
+        - Claude Desktop
+        - claude.ai
+        - Claude Code
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: asked
+    attributes:
+      label: What did you ask for?
+      description: Your request, with any client details replaced by made-up ones.
+    validations:
+      required: true
+  - type: textarea
+    id: happened
+    attributes:
+      label: What happened?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: AISLE version
+      description: Shown on the plugin's page in Claude (for example 1.2.0).
