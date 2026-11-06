@@ -1,0 +1,26 @@
+{
+  "name": "aisle",
+  "displayName": "AISLE",
+  "version": "1.2.0",
+  "description": "AISLE: Accounts · Insights · Safeguards · Launches and pitches · Execution. Twelve skills for account teams that sell through retail: inbox triage, sell-through recaps, Excel grids, client decks, sales dashboards, store visit reports, a redaction partner, account setup, retailer meeting prep, weekly client updates, an end-of-session wrap-up, and repeatable workflows run one checked stage at a time. Instructions only: no connectors, and nothing it reaches outside Claude.",
+  "author": {
+    "name": "Cortexa Consulting",
+    "url": "https://www.cortexa-consulting.ai"
+  },
+  "homepage": "https://www.cortexa-consulting.ai",
+  "repository": "https://github.com/cortexa-consulting/aisle",
+  "license": "MIT",
+  "keywords": [
+    "retail",
+    "sales",
+    "account-management",
+    "sell-through",
+    "redaction",
+    "skills"
+  ],
+  "icon": "./.claude-plugin/icon.png",
+  "documentationUrl": "https://github.com/cortexa-consulting/aisle#readme",
+  "supportUrl": "https://www.cortexa-consulting.ai/contact",
+  "privacyPolicyUrl": "https://www.cortexa-consulting.ai/privacy",
+  "termsOfServiceUrl": "https://www.cortexa-consulting.ai/terms"
+}
