@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.2.1 (2026-11-07)
+
+- **redaction-partner:** placeholders stay exact in headings, tables, slide
+  titles and file names too, with the brackets, the leading zero and the
+  capitals as written. Redact & Restore now points out a placeholder written
+  differently (`COMPANY-01`, `[COMPANY-1]`, `[Company-01]`) and offers to
+  restore it, where it used to leave it in place without a word.
+
 ## 1.2.0 (2026-11-06)
 
 First public release of AISLE, the general-purpose version of the plugin
