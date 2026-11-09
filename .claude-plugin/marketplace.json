@@ -7,7 +7,7 @@
   },
   "plugins": [
     {
-      "name": "aisle",
+      "name": "cortexa-aisle",
       "source": "./",
       "description": "AISLE: twelve skills for retail account teams, from inbox triage to client decks and repeatable workflows.",
       "author": {

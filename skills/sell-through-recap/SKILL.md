@@ -1,6 +1,6 @@
 ---
 name: sell-through-recap
-description: Turns a retail sell-through export into a recap: checks the data first (duplicates, odd prices, returns, out-of-stocks, gaps), builds the retailer-by-week grid, flags what moved and drafts the recap. Use for weekly or quarterly sell-through, POS or retail sales data.
+description: "Turns a retail sell-through export into a recap: checks the data first (duplicates, odd prices, returns, out-of-stocks, gaps), builds the retailer-by-week grid, flags what moved and drafts the recap. Use for weekly or quarterly sell-through, POS or retail sales data."
 ---
 
 # Sell-through recap

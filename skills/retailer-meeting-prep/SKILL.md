@@ -1,6 +1,6 @@
 ---
 name: retailer-meeting-prep
-description: Prepares a one-page brief for a meeting with a retailer or buyer from the account's files: how the brand is doing at that retailer, open issues and who owns them, what the buyer will likely raise, and the asks, with a source on every number. Use when asked to prep for a buyer, retailer, store or category meeting, a line review, or what to know before meeting someone at a retailer.
+description: "Prepares a one-page brief for a meeting with a retailer or buyer from the account's files: how the brand is doing at that retailer, open issues and who owns them, what the buyer will likely raise, and the asks, with a source on every number. Use when asked to prep for a buyer, retailer, store or category meeting, a line review, or what to know before meeting someone at a retailer."
 ---
 
 # Retailer meeting prep

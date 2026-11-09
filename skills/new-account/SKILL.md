@@ -1,6 +1,6 @@
 ---
 name: new-account
-description: Sets up the folders for a new client account, or for an engagement inside one, in a client workspace: a brief.md with Shared and Mine sections, a memory.md, a reference/ folder and an outputs folder. Never overwrites an account that exists. Use when asked to set up, add or start a new account, client, brand or engagement, or to make a project folder for one.
+description: "Sets up the folders for a new client account, or for an engagement inside one, in a client workspace: a brief.md with Shared and Mine sections, a memory.md, a reference/ folder and an outputs folder. Never overwrites an account that exists. Use when asked to set up, add or start a new account, client, brand or engagement, or to make a project folder for one."
 ---
 
 # New account

@@ -1,6 +1,6 @@
 ---
 name: excel-grid
-description: Builds Excel workbooks (.xlsx) other people can trust: real formulas, one table per sheet, validation where people type, and a README tab. Use when asked for a spreadsheet, tracker, grid or Excel report, or to turn data into a workbook.
+description: "Builds Excel workbooks (.xlsx) other people can trust: real formulas, one table per sheet, validation where people type, and a README tab. Use when asked for a spreadsheet, tracker, grid or Excel report, or to turn data into a workbook."
 ---
 
 # Excel grid

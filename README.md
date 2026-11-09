@@ -35,10 +35,10 @@ In Claude (Desktop or claude.ai), **Customize → Plugins → Add**:
   (**Code → Download ZIP**), as downloaded.
 
 In Claude Code: `/plugin marketplace add cortexa-consulting/aisle`, then
-`/plugin install aisle@cortexa`.
+`/plugin install cortexa-aisle@cortexa`.
 
 To run a skill yourself, type `/` in the message box and choose it
-(`aisle:inbox-triage`). Otherwise each one starts when your request fits
+(`cortexa-aisle:inbox-triage`). Otherwise each one starts when your request fits
 its description.
 
 ## The workspace the skills expect

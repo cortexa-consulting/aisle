@@ -1,6 +1,6 @@
 ---
 name: redaction-partner
-description: Protects redacted material: keeps placeholders such as [COMPANY-01], [PERSON-02] or [CONTACT-NAME-3] exactly as written, never asks for or guesses the real values, and flags details that slipped through. Use whenever text, files or spreadsheets contain bracketed placeholders like these.
+description: "Protects redacted material: keeps placeholders such as [COMPANY-01], [PERSON-02] or [CONTACT-NAME-3] exactly as written, never asks for or guesses the real values, and flags details that slipped through. Use whenever text, files or spreadsheets contain bracketed placeholders like these."
 ---
 
 # Redaction partner

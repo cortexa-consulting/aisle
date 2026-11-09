@@ -1,6 +1,6 @@
 ---
 name: store-visit-report
-description: Turns store visit notes into a report: planogram compliance, out-of-stocks, demo units, competitor activity, an owned action for every issue, and the internal notes in a file of their own. Use when given field notes or store or market visit notes, or asked for a store visit recap.
+description: "Turns store visit notes into a report: planogram compliance, out-of-stocks, demo units, competitor activity, an owned action for every issue, and the internal notes in a file of their own. Use when given field notes or store or market visit notes, or asked for a store visit recap."
 ---
 
 # Store visit report

@@ -1,6 +1,6 @@
 ---
 name: weekly-client-update
-description: Drafts the weekly update email to a client from the account's memory, this week's files and emails: what we did, what we're seeing, what's next and what we need from them. Saves it as a draft and never sends. Use when asked for a weekly, Friday or end-of-week client update, a status email, or a note to the client on where things stand.
+description: "Drafts the weekly update email to a client from the account's memory, this week's files and emails: what we did, what we're seeing, what's next and what we need from them. Saves it as a draft and never sends. Use when asked for a weekly, Friday or end-of-week client update, a status email, or a note to the client on where things stand."
 ---
 
 # Weekly client update

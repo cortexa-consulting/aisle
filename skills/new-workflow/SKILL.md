@@ -1,6 +1,6 @@
 ---
 name: new-workflow
-description: Sets up a recurring multi-stage job (a quarterly business review, a monthly recap, a launch readout) as a workflow folder of numbered stages, each with a short contract saying what it takes in, what it hands on, which skill does the work and what a person checks; then runs it one stage at a time, stopping for that check. Use when asked to set up a workflow, a pipeline or a repeatable process, to break a recurring job into stages or steps, or to run the next stage of one. Not for making one deliverable on its own (use that deliverable's skill) or for setting up an account.
+description: "Sets up a recurring multi-stage job (a quarterly business review, a monthly recap, a launch readout) as a workflow folder of numbered stages, each with a short contract saying what it takes in, what it hands on, which skill does the work and what a person checks; then runs it one stage at a time, stopping for that check. Use when asked to set up a workflow, a pipeline or a repeatable process, to break a recurring job into stages or steps, or to run the next stage of one. Not for making one deliverable on its own (use that deliverable's skill) or for setting up an account."
 ---
 
 # New workflow

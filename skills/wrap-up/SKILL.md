@@ -1,6 +1,6 @@
 ---
 name: wrap-up
-description: Logs where the work stands at the end of a session in the account's memory.md: what was made and where, what was decided, what's still open. Updates entries in place, moves finished items to memory-archive.md, and keeps client figures and confidential details out. Use when asked to wrap up, log where we are, save progress, update the memory, or before a break or the end of the day.
+description: "Logs where the work stands at the end of a session in the account's memory.md: what was made and where, what was decided, what's still open. Updates entries in place, moves finished items to memory-archive.md, and keeps client figures and confidential details out. Use when asked to wrap up, log where we are, save progress, update the memory, or before a break or the end of the day."
 ---
 
 # Wrap up

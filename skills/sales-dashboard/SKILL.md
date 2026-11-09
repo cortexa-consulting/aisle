@@ -1,6 +1,6 @@
 ---
 name: sales-dashboard
-description: Builds a sales or pipeline dashboard from a CRM opportunity export: open and weighted pipeline, win rate, stale deals, deals closing soon and pipeline by owner, using only the columns it needs and reconciled to the export. Use when asked for a pipeline or sales dashboard, or KPIs from a CRM or Salesforce export.
+description: "Builds a sales or pipeline dashboard from a CRM opportunity export: open and weighted pipeline, win rate, stale deals, deals closing soon and pipeline by owner, using only the columns it needs and reconciled to the export. Use when asked for a pipeline or sales dashboard, or KPIs from a CRM or Salesforce export."
 ---
 
 # Sales dashboard

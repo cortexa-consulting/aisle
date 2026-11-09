@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.2.2 (2026-11-09)
+
+- **New plugin name: `cortexa-aisle`.** The display name is still AISLE.
+  Install with `/plugin install cortexa-aisle@cortexa`, and skills start
+  with `cortexa-aisle:` (for example `cortexa-aisle:inbox-triage`). If you
+  installed `aisle` before, remove it and install `cortexa-aisle`; nothing
+  else changes.
+- Every skill's description is now quoted, so the colons in it can't be
+  misread by a strict reader. The wording is unchanged.
+- Removed the social preview image from the repository. GitHub keeps its
+  own copy, so the repository page looks the same.
+
 ## 1.2.1 (2026-11-07)
 
 - **redaction-partner:** placeholders stay exact in headings, tables, slide

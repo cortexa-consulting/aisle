@@ -1,6 +1,6 @@
 ---
 name: client-deck
-description: Builds client-facing PowerPoint decks (.pptx) from data or notes: the answer up front, one idea per slide, sentence headlines, a source on every number, and speaker notes. Use when asked for slides, a deck, a presentation, a QBR or a client readout.
+description: "Builds client-facing PowerPoint decks (.pptx) from data or notes: the answer up front, one idea per slide, sentence headlines, a source on every number, and speaker notes. Use when asked for slides, a deck, a presentation, a QBR or a client readout."
 ---
 
 # Client deck
