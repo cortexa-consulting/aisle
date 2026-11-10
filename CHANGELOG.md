@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.2.3 (2026-11-10)
+
+- **New display name: AISLE by Cortexa Consulting.** "AISLE" on its own is
+  already the name of another listing in Anthropic's plugin directory. The
+  skills, the plugin name (`cortexa-aisle`) and how you install it are
+  unchanged.
+
 ## 1.2.2 (2026-11-09)
 
 - **New plugin name: `cortexa-aisle`.** The display name is still AISLE.

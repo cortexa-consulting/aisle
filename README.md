@@ -30,7 +30,7 @@ read before you turn it on.
 In Claude (Desktop or claude.ai), **Customize → Plugins → Add**:
 
 - **Add marketplace** and enter `cortexa-consulting/aisle`, then **Sync**,
-  then **Discover → AISLE → Add**. Its Update button brings in new versions.
+  then **Discover → AISLE by Cortexa Consulting → Add**. Its Update button brings in new versions.
 - Or **Upload plugin** and choose this repository's ZIP
   (**Code → Download ZIP**), as downloaded.
 
